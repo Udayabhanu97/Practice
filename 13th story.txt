@@ -1,0 +1,12 @@
+<<<<<<< Updated upstream
+story 14
+
+a=5
+b=7
+print(a+b)
+=======
+13th story
+a=10
+b=20
+print("a,b")
+>>>>>>> Stashed changes
